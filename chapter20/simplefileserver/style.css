@@ -1,0 +1,16 @@
+
+.center-col {
+	background-color: #eee;
+}
+
+.form-padding {
+	padding-bottom: 30px;
+}
+
+#selectContainer {
+	display:none;
+}
+
+.radio-padding {
+	margin-right: 20px;
+}
